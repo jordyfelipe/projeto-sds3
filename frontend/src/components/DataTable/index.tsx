@@ -1,8 +1,8 @@
-/*Orientado pelo instrutor a fazer como variável
-ou seja, é uma função Lambda (que não tem nome) e está 
-sendo atribuída a uma variável chamada NavBar.
+/** 
+Obs.: Função Lambda está sendo atribuída a uma variável chamada NavBar.
 const DataTable = () => {} ao invés de function NavBar() {},
-porém, os dois estão corretos.*/
+porém, as duas formas estão corretas.
+*/
 
 const DataTable = () => {
     return (
