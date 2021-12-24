@@ -22,7 +22,7 @@ Built during the 3rd edition of ** DevSuperior Week ** (# sds3), event organized
 
 # How to run the project
 
-## Back end
+## Back-end
 Pré-requisitos: Java 11
 
 ```bash
@@ -36,7 +36,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front-end web
+## Front-end
 prerequisites: npm / yarn
 
 ```bash
