@@ -1,5 +1,3 @@
-# sds3-project
-
 # About project
 
 https://dsvendas-jf.netlify.app/
@@ -18,9 +16,9 @@ Built during the 3rd edition of ** DevSuperior Week ** (# sds3), event organized
 - ReactJS
 - Apex Charts
 ## deployment into production
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Back-end: Heroku
+- Front-end: Netlify
+- Database: Postgresql
 
 # How to run the project
 
