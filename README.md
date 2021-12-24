@@ -6,12 +6,12 @@ This application consists of displaying a dashboard from data provided by a back
 Built during the 3rd edition of ** DevSuperior Week ** (# sds3), event organized by [DevSuperior] (https://devsuperior.com "DevSuperior Website").
 
 # Technologies used
-## Back end
+## Back-end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
-## Front end
+## Front-end
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - Apex Charts
