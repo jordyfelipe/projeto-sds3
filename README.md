@@ -2,7 +2,7 @@
 
 https://dsvendas-jf.netlify.app/
 
-This application consists of displaying a dashboard from data provided by a back-end built with Spring Boot and React JS.
+This application consists of displaying a dashboard from data provided by a back-end built with Spring Boot and a front-end built with React JS.
 Built during the 3rd edition of ** DevSuperior Week ** (# sds3), event organized by [DevSuperior] (https://devsuperior.com "DevSuperior Website").
 
 # Technologies used
